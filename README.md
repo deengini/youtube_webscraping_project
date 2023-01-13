@@ -7,7 +7,7 @@ This repository contains a collection of my web scraping projects
 
 - This project requires you to formulate your own API key to pull requests by registering on Google Developer.  
 
-- Once, this API key is generated, please insert in place of YOUR-GOOGLE-API-KEY-HERE
+- Once, this API key is generated, please insert in place of YOUR-GOOGLE-API-KEY-HERE in the source code.
 
 - Sample code requests to call the YouTube API for each of the following: playlists, videos, channels etc can be found here: https://developers.google.com/youtube/v3/docs
 
