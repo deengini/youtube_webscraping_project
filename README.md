@@ -1,7 +1,7 @@
 # WebScraping_Projects
 This repository contains a collection of my web scraping projects
 
-**Project: YOUTUBER ANALYST COMPARISON**
+**Project: YOUTUBER ANALYST COMPARISONS**
 
 - This project analyzes and compares the video metrics of popular YouTube Data Analysts and is the first in a series of data scraping projects on this repository
 
